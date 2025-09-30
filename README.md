@@ -1,2 +1,1 @@
-# Elevate-Labs-Task-6
-Subqueries and Nested Queries
+This project creates a database named Task5DB with two tables — Customers and Orders — to demonstrate SQL concepts such as table creation, primary and foreign keys, data insertion, and different types of joins (INNER JOIN, LEFT JOIN, RIGHT JOIN, FULL JOIN). It also includes examples of advanced queries using scalar and correlated subqueries, as well as subqueries within IN, EXISTS, and = clauses, showcasing how to retrieve and analyze related data effectively in a relational database.
