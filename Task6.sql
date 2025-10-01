@@ -106,3 +106,6 @@ WHERE customer_id = (
     FROM Orders
     WHERE order_id = 3
 );
+
+
+-- task 7:
